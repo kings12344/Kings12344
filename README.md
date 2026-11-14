@@ -1,16 +1,53 @@
-## Hi there 👋
+# Vuyolwethu Dlamini
 
-<!--
-**kings12344/Kings12344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Software Developer | Technology Innovator
 
-Here are some ideas to get you started:
+📍 Eswatini 🇸🇿
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical technology solutions at the intersection of artificial intelligence, software development and automation.
+
+I'm interested in turning ideas into useful applications, simplifying complex workflows and using technology to solve real-world problems.
+
+## What I Do
+
+- AI application development and integration
+- Software development
+- Workflow automation
+- Mobile application concepts
+- Technology solutions for businesses
+
+## Selected Projects
+
+- Universal AI Skills Extractor
+- CRUSH Mobile
+- Open Higgsfield AI
+- AI Music Engineer
+- Blue Dreams AI Tech Hub
+
+## Technologies & Tools
+
+**Programming:** C++ · Python · JavaScript
+
+**AI:** ChatGPT · Claude · Gemini
+
+**Automation:** Make · Zapier
+
+**Development:** Git · GitHub
+
+**Data:** Google Sheets · Airtable · Power BI · Looker
+
+## Currently Learning
+
+- Object-oriented programming
+- AI-powered application development
+- Database design
+- Software architecture
+- Automation and system integration
+
+## Connect
+
+GitHub: [@kings12344](https://github.com/kings12344)
+
+---
+
+*Building with curiosity. Learning by doing. Solving real problems with technology.*
