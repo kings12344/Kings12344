@@ -1,4 +1,4 @@
-# Vuyolwethu Dlamini
+t# Vuyolwethu Dlamini
 
 ### AI Engineer | Software Developer | Technology Innovator
 
@@ -51,3 +51,4 @@ GitHub: [@kings12344](https://github.com/kings12344)
 ---
 
 *Building with curiosity. Learning by doing. Solving real problems with technology.*
+![Vuyolwethu Dlamini - GitHub Banner](github-banner.png)
