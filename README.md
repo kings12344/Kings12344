@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github-banner.png" width="100%" alt="Vuyolwethu Dlamini Banner">
+  <img src="GitHub profile README banner_20261114_121937_0000.png" width="100%" alt="Vuyolwethu Dlamini Banner">
 
   # Vuyolwethu Dlamini
 
